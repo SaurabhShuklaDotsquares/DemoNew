@@ -1,0 +1,17 @@
+{
+	"compilerOptions": {
+		"baseUrl": ".",
+		"paths": {
+			"@components/*": ["components/*"],
+			"@styles/*": ["styles/*"],
+			"@utils/*": ["utils/*"],
+			"@context/*": ["context/*"],
+			"@models/*": ["models/*"],
+			"@imageWrapper/*": ["imageWrapper/*"],
+			"@json/*": ["json/*"],
+			"@reducers/*": ["reducers/*"],
+			"@files/*": ["public/files/*"],
+			"@middlewares/*": ["middlewares/*"]
+		}
+	}
+}

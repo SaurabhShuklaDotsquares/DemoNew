@@ -1,0 +1,20 @@
+{
+  "..\\components\\Layout.js -> ./Common/Footer/Footer": {
+    "id": "..\\components\\Layout.js -> ./Common/Footer/Footer",
+    "files": [
+      "static/chunks/components_Common_Footer_Footer_js.js"
+    ]
+  },
+  "..\\components\\Layout.js -> ./Common/Header/Header": {
+    "id": "..\\components\\Layout.js -> ./Common/Header/Header",
+    "files": [
+      "static/chunks/components_Common_Header_Header_js.js"
+    ]
+  },
+  "_app.js -> nextjs-progressbar": {
+    "id": "_app.js -> nextjs-progressbar",
+    "files": [
+      "static/chunks/node_modules_nextjs-progressbar_dist_index_js.js"
+    ]
+  }
+}

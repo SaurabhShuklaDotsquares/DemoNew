@@ -1,0 +1,13 @@
+/node_modules
+/.next
+/.nexttyyy
+/dist
+/uploads
+/.vscode
+/.git
+
+*.snap
+
+*.jpeg
+*.jpg
+*.png
